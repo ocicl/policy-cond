@@ -1,0 +1,10 @@
+* policy-cond
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/policy-cond.git   |
+| commit  | eedb625  |
+| systems | policy-cond |
+|---------+-------------------------------------------|
+
