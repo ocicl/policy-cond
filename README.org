@@ -1,10 +1,10 @@
 * policy-cond
 
+This library provides an interface to the CLtL2 environment
+functions. Currently, only DECLARATION-INFORMATION is supported.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://github.com/stylewarning/policy-cond.git   |
-| commit  | eedb625  |
-| systems | policy-cond |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/stylewarning/policy-cond.git |
+| commit  | 748ec5b                                             |
+| systems | policy-cond                                         |
+|---------+-----------------------------------------------------|
