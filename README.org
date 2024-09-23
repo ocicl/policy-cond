@@ -5,6 +5,6 @@ functions. Currently, only DECLARATION-INFORMATION is supported.
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/stylewarning/policy-cond.git |
-| commit  | 748ec5b                                             |
+| commit  | 2c79354                                             |
 | systems | policy-cond                                         |
 |---------+-----------------------------------------------------|
